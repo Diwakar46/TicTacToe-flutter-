@@ -1,4 +1,7 @@
 # tic_tack_toe
+dependencies :   cupertino_icons: ^1.0.2
+                 awesome_dialog: ^3.1.0
+
 GameOverview:
 
 
